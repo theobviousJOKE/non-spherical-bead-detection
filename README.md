@@ -41,17 +41,7 @@ beads_detection/
 │       ├── train/
 │       └── val/
 │
-├── videos/                          # Raw input videos
-│   └── fr24_start30sec.mp4
-│
-├── output/                          # Annotated output videos
-│   └── fr24_start30sec_annotated.mp4
-│
-├── data3.yaml                       # Custom YOLO data config
-├── beads_detection.ipynb           # Main notebook
-├── yolov8s.pt                       # YOLOv8 small weights
-├── requirements.txt                 # Dependencies
-└── README.md                        # Documentation
+
 ```
 
 ##  Setup Instructions
